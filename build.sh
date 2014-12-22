@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-IMAGES="base php symfony"
+IMAGES="base php symfony fpm composer"
 
 for IMAGE in $IMAGES
 do
